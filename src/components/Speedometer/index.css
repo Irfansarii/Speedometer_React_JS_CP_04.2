@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container {
+  background-color: black;
+  height: 100vh;
+  text-align: center;
+}
+.image {
+  background-size: cover;
+  width: 100vw;
+}
+.heading {
+  color: #ffffff;
+  text-align: center;
+  padding-top: 40px;
+  font-family: roboto;
+  font-size: 45px;
+}
+.sub-heading {
+  color: #ffffff;
+}
+.Accelerate {
+}
+.ApplyBrake {
+}
+.paragraph {
+  color: #ffffff;
+}
